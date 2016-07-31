@@ -1,0 +1,241 @@
+# Logfile created on 2016-07-31 17:26:01 +0800 by logger.rb/53141
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:26:01 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [476294de] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+ DEBUG [476294de] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:26:53 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [26f1eb49] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [26f1eb49] Finished in 3.946 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [3fa4ff34] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [3fa4ff34] Finished in 0.665 seconds with exit status 0 (successful).
+  INFO [e6eb481b] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:34:16 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [d3b9a494] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [d3b9a494] Finished in 4.668 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [4e612d3f] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [4e612d3f] Finished in 0.650 seconds with exit status 0 (successful).
+  INFO [343ebfe9] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:37:00 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [13a37778] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [13a37778] Finished in 3.737 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [e2b775df] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [e2b775df] Finished in 0.630 seconds with exit status 0 (successful).
+  INFO [5d124b17] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:39:59 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [04fcd54e] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [04fcd54e] Finished in 3.964 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [072b447f] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [072b447f] Finished in 0.619 seconds with exit status 0 (successful).
+  INFO [cb0be5a9] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:40:18 +0800 cap staging deploy:setup
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:41:28 +0800 cap staging deploy:setup
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:41:31 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [101f2086] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [101f2086] Finished in 4.587 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [7c2bc8a5] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [7c2bc8a5] Finished in 0.624 seconds with exit status 0 (successful).
+  INFO [f59cb7c1] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:44:28 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e9b3c952] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [e9b3c952] Finished in 3.866 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [2aa394d8] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [2aa394d8] Finished in 0.639 seconds with exit status 0 (successful).
+  INFO [73d95dc6] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:45:13 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [d2ff4bac] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [d2ff4bac] Finished in 3.756 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [c76f7b22] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [c76f7b22] Finished in 0.633 seconds with exit status 0 (successful).
+  INFO [d557eda2] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:51:39 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [dfcb7a31] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [dfcb7a31] Finished in 4.873 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [8d3e459e] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [8d3e459e] Finished in 0.922 seconds with exit status 0 (successful).
+  INFO [6a3f4f98] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:53:46 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [0a526aed] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [0a526aed] Finished in 3.832 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [1be7bd90] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [1be7bd90] Finished in 0.619 seconds with exit status 0 (successful).
+  INFO [0793238a] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:56:09 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [2fd9001c] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [2fd9001c] Finished in 4.032 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [4139d195] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [4139d195] Finished in 0.853 seconds with exit status 0 (successful).
+  INFO [580e4e1b] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:58:07 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [df90714e] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [df90714e] Finished in 5.206 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [c5f29721] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [c5f29721] Finished in 0.632 seconds with exit status 0 (successful).
+  INFO [a7ce3da9] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 17:59:15 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [6033768b] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [6033768b] Finished in 5.249 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [145c422a] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [145c422a] Finished in 0.644 seconds with exit status 0 (successful).
+  INFO [f6c36395] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 18:01:24 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [a46e0890] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [a46e0890] Finished in 3.850 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [0bcd517b] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [0bcd517b] Finished in 0.718 seconds with exit status 0 (successful).
+  INFO [78461e59] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 18:02:15 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [8f5f80b2] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [8f5f80b2] Finished in 4.100 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [045d1dfb] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [045d1dfb] Finished in 0.638 seconds with exit status 0 (successful).
+  INFO [11bf4b7d] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 18:06:08 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [f42a1d27] Running /usr/bin/env mkdir -p /home/mysite/tmp as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 18:06:37 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [242d6029] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [242d6029] Finished in 3.614 seconds with exit status 0 (successful).
+  INFO Uploading //tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [5d55f922] Running /usr/bin/env chmod 700 //tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [5d55f922] Finished in 0.717 seconds with exit status 0 (successful).
+  INFO [2d68f195] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 18:07:17 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [4f9ef389] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [4f9ef389] Finished in 4.230 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [ef22291f] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [ef22291f] Finished in 0.664 seconds with exit status 0 (successful).
+  INFO [f52a0d06] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 18:08:58 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [7ed12114] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [7ed12114] Finished in 22.342 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [27ba4354] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [27ba4354] Finished in 0.651 seconds with exit status 0 (successful).
+  INFO [83e70c3c] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 21:11:07 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [ec56fcf2] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [ec56fcf2] Finished in 14.745 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [34954bef] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [34954bef] Finished in 0.646 seconds with exit status 0 (successful).
+  INFO [79fa354e] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 21:14:34 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [687798bb] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [687798bb] Finished in 14.490 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [67d8e371] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [67d8e371] Finished in 0.694 seconds with exit status 0 (successful).
+  INFO [5ff7bac7] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 21:21:12 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [44d38b31] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [44d38b31] Finished in 4.047 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [f627ce9c] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [f627ce9c] Finished in 0.734 seconds with exit status 0 (successful).
+  INFO [99ab8d0d] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 21:37:55 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [b3452781] Running /usr/bin/env mkdir -p /tmp as smnevans@chiakizushi.com
+  INFO [b3452781] Finished in 5.240 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [74eac252] Running /usr/bin/env chmod 700 /tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [74eac252] Finished in 0.768 seconds with exit status 0 (successful).
+  INFO [603f1596] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 21:48:32 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [f4153602] Running /usr/bin/env mkdir -p /cap/tmp as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 21:50:45 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [cd9aff12] Running /usr/bin/env mkdir -p /smnevans/tmp as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 21:51:30 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [72801f60] Running /usr/bin/env mkdir -p smnevans/tmp as smnevans@chiakizushi.com
+  INFO [72801f60] Finished in 4.867 seconds with exit status 0 (successful).
+  INFO Uploading smnevans/tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [103dfbb0] Running /usr/bin/env chmod 700 smnevans/tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [103dfbb0] Finished in 0.641 seconds with exit status 0 (successful).
+  INFO [ae21a758] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO [ae21a758] Finished in 2.143 seconds with exit status 0 (successful).
+  INFO [bfd7fdb7] Running /usr/bin/env mkdir -p /var/www/gitwalken_staging/shared /var/www/gitwalken_staging/releases as smnevans@chiakizushi.com
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-07-31 21:52:47 +0800 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [61d6eb48] Running /usr/bin/env mkdir -p smnevans/tmp as smnevans@chiakizushi.com
+  INFO [61d6eb48] Finished in 3.752 seconds with exit status 0 (successful).
+  INFO Uploading smnevans/tmp/git-ssh-gitwalken-staging-simon.sh 100.0%
+  INFO [649c9a81] Running /usr/bin/env chmod 700 smnevans/tmp/git-ssh-gitwalken-staging-simon.sh as smnevans@chiakizushi.com
+  INFO [649c9a81] Finished in 0.626 seconds with exit status 0 (successful).
+  INFO [ab53f372] Running /usr/bin/env git ls-remote --heads git@github.com:smnevans/gitwalken.git as smnevans@chiakizushi.com
+  INFO [ab53f372] Finished in 1.995 seconds with exit status 0 (successful).
+  INFO [dd2346cd] Running /usr/bin/env mkdir -p public_html/gitwalken_staging/shared public_html/gitwalken_staging/releases as smnevans@chiakizushi.com
+  INFO [dd2346cd] Finished in 0.891 seconds with exit status 0 (successful).
+  INFO [1c7d3b20] Running /usr/bin/env mkdir -p public_html/gitwalken_staging/shared/bin public_html/gitwalken_staging/shared/log public_html/gitwalken_staging/shared/tmp public_html/gitwalken_staging/shared/vendor/bundle public_html/gitwalken_staging/shared/public/system as smnevans@chiakizushi.com
+  INFO [1c7d3b20] Finished in 0.611 seconds with exit status 0 (successful).
+  INFO [324f56ce] Running /usr/bin/env mkdir -p public_html/gitwalken_staging/shared/config as smnevans@chiakizushi.com
+  INFO [324f56ce] Finished in 0.706 seconds with exit status 0 (successful).
+ ERROR linked file public_html/gitwalken_staging/shared/config/database.yml does not exist on chiakizushi.com
