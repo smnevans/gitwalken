@@ -1,0 +1,130 @@
+
+@import "bourbon/bourbon";
+@import "neat/neat";
+@import "base/base";
+$medium: new-breakpoint(min-width 600px);
+$large: new-breakpoint(min-width 1000px);
+
+// LET'S PLAY WITH COLOURS
+$site-header-color: #942617;
+$post-title-color: #223D14;
+$post-body-color: #020730;
+$post-footer-color: #9E5C56;
+$link-color: #2A2F70;
+$site-background-color: white;
+$post-title-hover: green;
+$post-body-hover: #2A2F70;
+
+.container {
+    @include outer-container(12);
+
+  }
+
+header[role="banner"] {
+	@include span-columns(10);
+	@include shift(1);
+	font-size: 1.2rem;
+	color: $site-header-color;
+	padding-bottom: 30px;
+	@include media($medium) {
+  		@include span-columns(8);
+  		@include shift(2);
+		font-size: 1.5rem;
+	@include media($large) {
+		@include span-columns(6);
+		@include shift(3)
+	}
+  	}
+}
+
+main {
+	@include span-columns(10);
+	@include shift(1);
+	font-size: 0.8rem;
+	@include media($medium) {
+  		@include span-columns(8);
+  		@include shift(2);
+		font-size: 1rem;
+  	}
+  	@include media($large) {
+		@include span-columns(6);
+		@include shift(3)
+		}
+}
+
+footer[role="siteinfo"] {
+	@include span-columns(10);
+	@include shift(1);
+	font-size: 0.8rem;
+	padding-bottom: 0.1rem;
+	color: post-footer-color;
+	@include media($medium) {
+  		@include span-columns(8);
+  		@include shift(2);
+		font-size: 1rem;
+  	}
+  	@include media($large) {
+		@include span-columns(6);
+		@include shift(3);
+	}
+}
+
+main article {
+	padding-bottom: 20px;
+}
+
+.postbody {
+	color: $post-body-color;
+	a:link {color: $link-color;
+		text-decoration: underline;
+	}
+	a:visited {color: $link-color}
+	a:hover {color: $post-body-hover}
+
+}
+
+body {
+	background-color: $site-background-color;
+}
+
+.entry-title {
+	a:link {color: $post-title-color}
+	a:visited {color: $post-title-color}
+	a:hover {color: $post-title-hover}
+}
+
+.entry-meta {
+	color: $post-footer-color;
+}
+
+.rslides {
+    position: relative;
+    list-style: none;
+    overflow: hidden;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.rslides li {
+    -webkit-backface-visibility: hidden;
+    position: absolute;
+    display: none;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.rslides li:first-child {
+    position: relative;
+    display: block;
+    float: left;
+}
+
+.rslides img {
+    display: block;
+    height: auto;
+    float: left;
+    width: 100%;
+    border: 0;
+}

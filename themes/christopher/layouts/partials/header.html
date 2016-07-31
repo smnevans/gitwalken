@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+<meta charset="utf-8">
+{{ .Hugo.Generator }}
+<script src="https://use.typekit.net/ifc4dyc.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/styles.css">
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="{{ .Site.Title }}">
+<title>{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}</title>
+</head>
+<body>
+
+<div class="container">
+
+	<header role="banner">
+	<a href="{{ .Site.BaseURL }}"><h1>Sidewalken</h1></a>
+	<p>Simon Evans' personal weblog.</p>
+	</header>
+
